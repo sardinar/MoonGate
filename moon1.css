@@ -1,0 +1,17 @@
+body {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	color: white;
+}
+#gradient1 {
+	color:whitesmoke;
+	padding: 100px;
+	background: #b721ff;
+    background: -webkit-linear-gradient(-20deg, ##b721ff 0%, #21d4fd 100%);
+    background: -moz-linear-gradient(-20deg, ##b721ff 0%, #21d4fd 100%);
+    background-image: linear-gradient(-20deg, #b721ff 0%, #21d4fd 100%);
+}
+.navbar {
+	background-color: darkblue;
+}
